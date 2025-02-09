@@ -4,6 +4,7 @@ import InputField from "./components/InputField";
 const App = () => {
   return (
     <div className="login-container">
+      <h1>Dina i love you</h1>
       <h2 className="form-title">Log in with</h2>
       <SocialLogin />
 
@@ -20,7 +21,7 @@ const App = () => {
       <p className="signup-prompt">
         Don&apos;t have an account? <a href="#" className="signup-link">Sign up</a>
       </p>
-    </div>
+    </div> 
   )
 }
 
