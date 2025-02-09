@@ -5,6 +5,7 @@ const App = () => {
   return (
     <div className="login-container">
       <h1>Dina i love you</h1>
+      <h2>ok i love you bijay maya</h2>
       <h2 className="form-title">Log in with</h2>
       <SocialLogin />
 
